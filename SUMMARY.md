@@ -7,7 +7,7 @@
 ## Web
 
 * [1.django入门](django/1.django入门.md)
-* 2.django深入
+* [2.django深入]
 
 
 
